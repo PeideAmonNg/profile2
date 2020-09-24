@@ -7,10 +7,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Education
 
-Learning new ways of thinking and software craftsmanship everyday through reading, exploring, and applying. My formal education background is as follows:
+Constantly learning new ways of thinking and software craftsmanship through reading, exploring, and applying. My formal education background is as follows:
 
 - AWS Associate Developer
 - Victoria Universtity Engineering
+
+I have learned a lot through online forums such as Medium, StackOverflow, and software companies' blog posts, and personal blogs by great minds in the engineering field. I also learned and shared a great deal of knowledge through discussions with colleagues.
 
 
 ```markdown
@@ -42,9 +44,18 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PeideAmonNg/profile2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Areas of Knowledge
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- JavaScript, AngularJS, Express, MongoDB
+- PHP, SilverStripe, MySQL
+- Version control, Git
+- Unit testing & E2E testing
+- Build and deploy automation, Jenkins, AWS
+- Security, OWASP
+
+### Contact
+
+Feel free to reach out to me via:
 
 - Email: peide.amon.ng@gmail.com
 - Github: [github.com/PeideAmonNg](https://github.com/PeideAmonNg/)
