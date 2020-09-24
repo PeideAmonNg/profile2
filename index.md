@@ -5,14 +5,13 @@ You can use the [editor on GitHub](https://github.com/PeideAmonNg/profile2/edit/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
-
 ### Education
 
-- Victoria Universtity Engineering
-- AWS Associate Developer
-- Azure
+Learning new ways of thinking and software craftsmanship everyday through reading, exploring, and applying. My formal education background is as follows:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- AWS Associate Developer
+- Victoria Universtity Engineering
+
 
 ```markdown
 Syntax highlighted code block
