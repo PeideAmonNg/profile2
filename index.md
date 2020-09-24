@@ -1,10 +1,16 @@
-## Welcome to GitHub Pages
+### Work Experience
 
 You can use the [editor on GitHub](https://github.com/PeideAmonNg/profile2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+
+
+### Education
+
+- Victoria Universtity Engineering
+- AWS Associate Developer
+- Azure
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -27,6 +33,11 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Side projects
+
+- Interactive PDF form generator -> Enables users to customise pdf form through drag n drop in app and download it.
+- Youtube to Spotify watchlist -> Add songs that added in youtube watchlist to spotify watchlist.
 
 ### Jekyll Themes
 
